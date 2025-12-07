@@ -1,0 +1,5 @@
+{
+  "name": "Portfolio AI",
+  "description": "A modern, responsive portfolio website featuring an interactive AI assistant powered by Gemini 2.5 Flash to answer questions about professional experience.",
+  "requestFramePermissions": []
+}
