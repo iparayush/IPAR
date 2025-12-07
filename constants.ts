@@ -9,7 +9,7 @@ export const PERSONAL_INFO = {
   instagram: "https://www.instagram.com/iparayush/?__pwa=1",
   location: "Mumbai, India",
   bio: "Student at MET Institute Of Management. I am studying Artificial Intelligence, Data Analysis, and Cloud Computing. Skilled in Python, SQL, Machine Learning, and AWS/Azure, with a passion for building smart, data-driven, and scalable solutions.",
-  heroImage: "1.png"
+  heroImage: "ph.png"
 };
 
 export const SKILLS: SkillMetric[] = [
